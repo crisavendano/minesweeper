@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/coavendano/.nuget/packages/": {}
+    "C:\\Users\\crist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper/Minesweeper.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper\\Minesweeper.csproj",
       "projectName": "Minesweeper",
-      "projectPath": "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper/Minesweeper.csproj",
-      "packagesPath": "/Users/coavendano/.nuget/packages/",
-      "outputPath": "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper/obj/",
+      "projectPath": "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper\\Minesweeper.csproj",
+      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/coavendano/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

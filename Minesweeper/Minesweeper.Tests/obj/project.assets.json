@@ -5534,19 +5534,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/coavendano/.nuget/packages/": {}
+    "C:\\Users\\crist\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper.Tests/Minesweeper.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper.Tests\\Minesweeper.Tests.csproj",
       "projectName": "Minesweeper.Tests",
-      "projectPath": "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper.Tests/Minesweeper.Tests.csproj",
-      "packagesPath": "/Users/coavendano/.nuget/packages/",
-      "outputPath": "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper.Tests/obj/",
+      "projectPath": "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper.Tests\\Minesweeper.Tests.csproj",
+      "packagesPath": "C:\\Users\\crist\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/coavendano/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\crist\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -5558,8 +5558,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper/Minesweeper.csproj": {
-              "projectPath": "/Users/coavendano/Downloads/dis/Minesweeper/Minesweeper/Minesweeper/Minesweeper.csproj"
+            "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper\\Minesweeper.csproj": {
+              "projectPath": "C:\\Users\\crist\\OneDrive\\Escritorio\\minesweeper\\Minesweeper\\Minesweeper\\Minesweeper.csproj"
             }
           }
         }
@@ -5611,7 +5611,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.400/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
