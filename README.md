@@ -1,0 +1,2 @@
+# minesweeper
+Basic terminal Minesweeper
